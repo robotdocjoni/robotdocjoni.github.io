@@ -16,6 +16,7 @@ Education
 	*Supervisor: Prof. Stefan Wermter (European Neural Network Society President)
 * M.S. (Cognitive Science) in University of Osnabrück, Germany, 2025 (expected)
 * M.Phil. (Electrical Engineering) in the Hong Kong Polytechnic University, Hong Kong, 2010
+	*Supervisor: Dr. Yu-fai Fung
 * B.Eng. (Major in Automation, Minor in Computer Science) in South China University of Technology, China, 2006
 
 Academic Experience
