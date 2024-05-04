@@ -1,0 +1,19 @@
+---
+title: "Theoretical Research in Cognitive Science"
+excerpt: "Prediction, Expectation and Valence<br/><img src='/images/project-4_500x300.jpg'>"
+collection: projects
+---
+
+Some of my previous work  was on predictive coding, in the paper "The Emerge of Disentanglement in the Conceptual Space during Sensorimotor Interaction," we investigate the emergence of disentangled representations in a conceptual space through sensorimotor interaction. By employing a predictive coding framework, we demonstrate how the model learns to separate and organize concepts based on their sensorimotor properties. This work contributes to the understanding of how embodied interaction shapes the formation of abstract concepts and highlights the role of predictive coding in cognitive development.
+
+The study "AFA-PredNet: The action modulation within predictive coding" presents a novel architecture that integrates action modulation within the predictive coding framework. By incorporating action-related information into the prediction and error computation processes, we show how the model can learn to generate accurate predictions and adapt its behavior based on sensorimotor feedback. This research emphasizes the importance of action-perception loops in predictive coding and sheds light on the mechanisms underlying adaptive behavior.
+
+My Ph.D. thesis, "Artificial Neural Models for Feedback Pathways for Sensorimotor Integration," explores the role of feedback pathways in sensorimotor integration using artificial neural models. By investigating the interactions between top-down and bottom-up processes in hierarchical predictive coding networks, I demonstrate how these feedback mechanisms facilitate the learning of complex sensorimotor mappings and enable adaptive behavior. This work provides a comprehensive analysis of the computational principles underlying sensorimotor integration and highlights the significance of predictive coding in cognitive and interactive systems.
+
+The predictive coding framework has significant implications for interaction studies, as it provides a theoretical foundation for understanding how individuals perceive, interpret, and respond to stimuli in their environment. By considering the role of prediction and error minimization in information processing, predictive coding offers insights into how users generate expectations and adapt their behavior based on sensory feedback. This perspective aligns with the symmetric theory of valence (Thornton, 2021), which posits that the symmetry of an information geometry of the mind corresponds to the pleasantness of the experience.
+
+In the context of interaction, the symmetric theory of valence suggests that the congruence between an individual's predictions and the actual sensory input contributes to the valence of the experience. When predictions are accurate, and the sensory input matches the expected outcomes, the interaction is likely to be perceived as pleasant and rewarding. Conversely, when there is a mismatch between predictions and sensory input, the interaction may be experienced as unpleasant or aversive.
+
+While predictive coding and the symmetric theory of valence share a focus on the role of expectations and prediction errors in shaping experience, they differ in their level of analysis. Predictive coding provides a computational framework for understanding the mechanisms underlying perception, cognition, and action, whereas the symmetric theory of valence focuses on the subjective experience of pleasure and well-being. By considering both perspectives, researchers can gain a more comprehensive understanding of how the brain's predictive processes influence the affective qualities of interaction and how these factors contribute to the design of engaging and rewarding interactive systems.
+
+
