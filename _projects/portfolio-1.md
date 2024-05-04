@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
+title: "HRI/HCI for Assisting the Most Vulnerable"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
-test test
+My research in Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI) focuses on developing innovative solutions to assist vulnerable populations, including individuals with mental health problems, elderly with cognitive impairments, children with special educational needs (SEN), and those requiring physical rehabilitation. I tackle real-world challenges by designing and evaluating adaptive robotic systems tailored to the specific needs and capabilities of these user groups.
+
+In the international project supported by German and Hong Kong,  we investigated the relationships between emotion, relaxation, and embodied experiences in VR-based nature environments, suggesting the potential of using different VR contents in the treatment of mood disorders (Lau et al., 2024). 
+
+In a study supported by a PolyU start-up grant, I investigated the effects of cognitive training and reminiscence therapy administered by humans or socially assistive robots on prefrontal cortex activation in elderly individuals with mild cognitive impairment (MCI), using neuroimaging evidence. This research addresses the growing need for effective interventions to support the increasing population of older adults with cognitive decline (Prince et al., 2013). By comparing the efficacy of human-led and robot-led therapies, this study provides valuable insights into the potential of socially assistive robots in healthcare settings. In a collaborative work, we explored portable training and brain stimulation programs for children with Autism Spectrum Disorder (ASD).
+
+Furthermore, I conducted intriguing studies on laughter, exploring its role in robot humor expression and focusing on the impact of laughter type and robot laughter gesture on overall humor performance. This research addresses the challenge of creating socially engaging robots that can effectively interact with vulnerable populations, such as children or older adults, who may benefit from the emotional support and social stimulation provided by humorous interactions (Nijholt, 2012).
+
+In these studies, I primarily investigate the impact of stimuli, particularly multimodal stimuli (e.g., virtual reality content, therapy content, robot actions, robot morphology, and their combinations), on the outcome of the interaction. I typically employ performance metrics, valence measurements, and acceptance of technologies as general outcome variables. Additionally, we are exploring and examining different stimuli settings in relation to user valence, drawing upon the symmetric theory of valence [(Thornton, 2021)](https://opentheory.net/2021/07/a-primer-on-the-symmetry-theory-of-valence/). This theory posits that the symmetry of an information geometry of the mind corresponds to the pleasantness of the experience. By investigating the relationship between stimuli settings and user valence, we aim to gain insights into the factors that contribute to positive user experiences and optimize the design of HRI and HCI systems for vulnerable populations.
+
+My previous work on robotic learning for robot-assisted physical training (Li et al., 2019) and upper limb rehabilitation robot systems (Li & Zhong, 2020) further demonstrates my commitment to developing practical solutions for individuals with physical disabilities.
