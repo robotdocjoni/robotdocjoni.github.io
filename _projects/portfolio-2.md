@@ -1,0 +1,13 @@
+---
+title: "Multimodal Interactive Designs, Algorithms and User Studies"
+excerpt: "Developing HRI/HCI solutions to assist vulnerable populations<br/><img src='/images/project-2_500x300.jpg'>"
+collection: projects
+---
+
+My research in multimodal interactive designs and human studies investigates the development and evaluation of interactive systems that leverage multiple modalities to enhance user experience and performance. In the paper "A multimodal human-robot sign language interaction framework applied in social robots" (Li et al., 2023), we propose a novel framework that integrates vision-based hand gesture recognition, natural language processing, and robot control to enable seamless sign language interaction between humans and social robots. This research addresses the need for inclusive communication interfaces that cater to individuals with hearing impairments, promoting accessible human-robot interaction.
+
+In the study "An incremental cross-modal transfer learning method for gesture interaction" (Zhong et al., 2022), we present a novel approach to improving gesture recognition performance by leveraging cross-modal transfer learning. By incrementally adapting the model to new modalities and domains, we demonstrate enhanced accuracy and robustness in gesture-based interaction. This work builds upon the growing body of research on transfer learning in multimodal interaction (Feng et al., 2020; Wang et al., 2021), showcasing the potential of adaptive learning techniques in creating personalized and efficient interfaces.
+
+The paper "Robot teaching by teleoperation based on visual interaction and extreme learning machine" (Xu et al., 2017) explores a novel approach to robot teaching through teleoperation, combining visual interaction and extreme learning machine (ELM) techniques. By employing ELM for rapid and efficient learning from human demonstrations, we develop an intuitive and user-friendly teleoperation system that enables users to teach robots complex tasks through natural visual cues. This research contributes to the field of robot learning from demonstration (Argall et al., 2009) and highlights the importance of multimodal interaction in facilitating effective human-robot collaboration.
+
+To tackle the real-world problems, these works are always use data collected from real-world and the usability, acceptance and other metrics are usually examined in the studies.  demonstrate my expertise in designing multimodal interfaces that adapt to user needs and preferences. By leveraging state-of-the-art machine learning techniques and conducting rigorous human studies, I aim to advance the field of multimodal interaction and create inclusive, personalized, and efficient interfaces for a wide range of applications.
