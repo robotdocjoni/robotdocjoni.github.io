@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Interactive Designs, Algorithms and User Studies"
-excerpt: "Developing HRI/HCI solutions to assist vulnerable populations<br/><img src='/images/project-2_500x300.jpg'>"
+excerpt: "Enhancing user experience and performance<br/><img src='/images/project-2_500x300.jpg'>"
 collection: projects
 ---
 
