@@ -1,6 +1,6 @@
 ---
 title: "HRI/HCI for Assisting the Most Vulnerable"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Developing HRI/HCI solutions to assist vulnerable populations<br/><img src='/images/project-1_500x300.jpg'>"
 collection: projects
 ---
 
