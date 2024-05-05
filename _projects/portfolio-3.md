@@ -1,6 +1,6 @@
 ---
 title: "Adaptation, Learning and Optimization with Human-Feedbacks"
-excerpt: "Enhancing user experience and performance<br/><img src='/images/project-3_500x300.jpg'>"
+excerpt: "Accessible and effective HRI/HCI<br/><img src='/images/project-3_500x300.jpg'>"
 collection: projects
 ---
 My research in adaptation, learning, and optimization with human-feedback aims to advance the design of effective Human-Robot Interaction (HRI) and Human-Computer Interaction (HCI) systems. I focus on developing intelligent systems that learn and adapt based on human input and interaction, either offline, online, or in real-time. This work began with our project funded by the Sutherland Fellowship at the University of Sussex, which focused on human-in-the-loop PID control based on Continuous Actor-Critic Learning Automaton (CACLA) reinforcement learning [(Zhong & Li, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-27535-8_54) and incremental learning frameworks for skeletal-based hand gesture recognition [(Li et al., 2019)](https://ieeexplore.ieee.org/abstract/document/9066761). These studies demonstrate my expertise in creating systems that optimize their performance through human feedback.
