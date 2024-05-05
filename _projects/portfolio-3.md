@@ -1,6 +1,6 @@
 ---
 title: "Adaptation, Learning and Optimization with Human-Feedbacks"
-excerpt: "Enhancing user experience and performance<br/><img src='/images/project-2_500x300.jpg'>"
+excerpt: "Enhancing user experience and performance<br/><img src='/images/project-3_500x300.jpg'>"
 collection: projects
 ---
 
