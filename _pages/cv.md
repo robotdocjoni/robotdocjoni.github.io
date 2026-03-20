@@ -12,21 +12,27 @@ redirect_from:
 Education
 ======
 * Ph.D (Computer Science) in University of Hamburg, Germany, 2015
-	*Recipient of EU Marie Curie PhD Fellowship
-	*Supervisor: Prof. Stefan Wermter (European Neural Network Society President)
+	Recipient of EU Marie Curie PhD Fellowship
+	Supervisor: Prof. Stefan Wermter (European Neural Network Society President)
 * M.S. (Cognitive Science) in University of Osnabrück, Germany, 2025 (expected)
 * M.Phil. (Electrical Engineering) in the Hong Kong Polytechnic University, Hong Kong, 2010
+	Supervisor: Dr. Yu-fai Fung
 * B.Eng. (Major in Automation, Minor in Computer Science) in South China University of Technology, China, 2006
 
 Academic Experience
 ======
-**Research Assistant Professor**, Technological and Higher Education Institute of Hong Kong (THEi), HK since 2020  
+**Assistant Professor**, Technological and Higher Education Insitute of Hong Kong (THEi), since 2026
+
+**Assistant Professor**, UOW College Hong Kong, 2024-2026 
+
+**Research Assistant Professor**, The Hong Kong Polytechnic University HK, 2020-2024 
+ 
 **Independent Research Fellow/Lecturer**, Nottingham Trent University, UK 2019 - 2020
 
 **Research Scientist**, AIST, Japan (one of the top research institutes and think tanks in Japan) 2017- 2019  
 Independent Researcher
 
-**Junior Researcher,** Waseda University, Japan 2016  
+**Junior Researcher**, Waseda University, Japan 2016  
 Supervisor: Prof. Tetsuya Ogata
 
 **Postdoc Researcher,** Uni. of Plymouth, UK 2015  
@@ -38,7 +44,7 @@ EU Project: ALIZ-E, Supervisor: Dr. Lola Canamero
 
 Other Experience
 ======
-**Co-founder and CTO,** Dailove Limited, Hong Kong since 2023  
+**Co-founder and CTO,** Dailove Limited, Hong Kong Science and Technology Parks,  since 2023  
 To build data-driven and elderly-friendly medication management system solutions for community- and home-based health-care.
 
 Research Grants
