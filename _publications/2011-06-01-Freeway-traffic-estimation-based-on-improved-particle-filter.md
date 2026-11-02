@@ -7,3 +7,4 @@ venue: 'IEEE International Conference on Computer Science and Information Techno
 citation: ' S Ren,  Y Fung,  J Zhong,  X Li,  J Bi, &quot;Freeway traffic estimation based on improved particle filter.&quot; IEEE International Conference on Computer Science and Information Technology, 2011.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Freeway+traffic+estimation+based+on+improved+particle+filter){:target="_blank"} for full citation
+{:.small}

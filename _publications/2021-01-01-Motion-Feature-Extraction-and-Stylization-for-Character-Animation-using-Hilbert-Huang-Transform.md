@@ -7,3 +7,4 @@ venue: 'In the proceedings of Proceedings of the 2021 ACM International Conferen
 citation: ' Ran Dong,  Yangfei Lin,  Qiong Chang,  Junpei Zhong,  Dongsheng Cai,  Soichiro Ikuno, &quot;Motion Feature Extraction and Stylization for Character Animation using Hilbert-Huang Transform.&quot; In the proceedings of Proceedings of the 2021 ACM International Conference on Intelligent Computing and its Emerging Applications, 2021.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Motion+Feature+Extraction+and+Stylization+for+Character+Animation+using+Hilbert+Huang+Transform){:target="_blank"} for full citation
+{:.small}

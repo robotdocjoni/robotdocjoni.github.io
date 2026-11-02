@@ -7,3 +7,4 @@ venue: 'Complexity'
 citation: ' J. Zhong,  A. Cangelosi,  T. Ogata,  Zhang X., &quot;Encoding Longer-term Contextual Information with Predictive Coding and Ego-motion.&quot; Complexity, 2018.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Encoding+Longer+term+Contextual+Information+with+Predictive+Coding+and+Ego+motion){:target="_blank"} for full citation
+{:.small}

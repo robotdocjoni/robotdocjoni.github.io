@@ -7,3 +7,4 @@ venue: 'In the proceedings of The 34th Annual Conference of the Robotics Society
 citation: ' J. Zhong,  A. Cangelosi,  T. Ogata, &quot;Sentence Embeddings with Sensorimotor Embodiment.&quot; In the proceedings of The 34th Annual Conference of the Robotics Society of Japan, 2016.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Sentence+Embeddings+with+Sensorimotor+Embodiment){:target="_blank"} for full citation
+{:.small}

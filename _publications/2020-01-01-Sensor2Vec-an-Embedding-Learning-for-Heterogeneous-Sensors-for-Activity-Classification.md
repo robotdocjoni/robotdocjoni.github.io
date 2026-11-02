@@ -7,3 +7,4 @@ venue: 'In the proceedings of 2020 International Symposium on Community-centric 
 citation: ' J. Zhong,  A. Lotfi, &quot;Sensor2Vec: an Embedding Learning for Heterogeneous Sensors for Activity Classification.&quot; In the proceedings of 2020 International Symposium on Community-centric Systems (CcS), 2020.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Sensor2Vec:+an+Embedding+Learning+for+Heterogeneous+Sensors+for+Activity+Classification){:target="_blank"} for full citation
+{:.small}

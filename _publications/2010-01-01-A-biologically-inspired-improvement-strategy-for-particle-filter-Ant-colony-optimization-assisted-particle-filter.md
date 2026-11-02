@@ -7,3 +7,4 @@ venue: 'International Journal of Control, Automation and Systems'
 citation: ' J. Zhong,  Y. Fung,  M. Dai, &quot;A biologically inspired improvement strategy for particle filter: Ant colony optimization assisted particle filter.&quot; International Journal of Control, Automation and Systems, 2010.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+biologically+inspired+improvement+strategy+for+particle+filter:+Ant+colony+optimization+assisted+particle+filter){:target="_blank"} for full citation
+{:.small}

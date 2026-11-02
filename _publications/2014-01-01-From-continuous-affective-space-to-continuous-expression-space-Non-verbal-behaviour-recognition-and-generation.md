@@ -7,3 +7,4 @@ venue: 'In the proceedings of Development and Learning and Epigenetic Robotics (
 citation: ' J. Zhong,  L. Canamero, &quot;From continuous affective space to continuous expression space: Non-verbal behaviour recognition and generation.&quot; In the proceedings of Development and Learning and Epigenetic Robotics (ICDL-Epirob), 2014 Joint IEEE International Conferences on, 2014.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=From+continuous+affective+space+to+continuous+expression+space:+Non+verbal+behaviour+recognition+and+generation){:target="_blank"} for full citation
+{:.small}

@@ -7,3 +7,4 @@ venue: 'In the proceedings of Hong Kong Physiotherapy Association Conference 202
 citation: ' Yu Wong,  Man Lam,  Kin Yeung,  Junpei Zhong, &quot;A systematic review on the modifiable risk factors for incident mild cognitive impairment in community-dwelling older adults..&quot; In the proceedings of Hong Kong Physiotherapy Association Conference 2021, 2021.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+systematic+review+on+the+modifiable+risk+factors+for+incident+mild+cognitive+impairment+in+community+dwelling+older+adults.){:target="_blank"} for full citation
+{:.small}

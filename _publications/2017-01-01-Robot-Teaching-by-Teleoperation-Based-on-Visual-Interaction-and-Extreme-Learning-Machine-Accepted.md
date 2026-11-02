@@ -7,3 +7,4 @@ venue: 'Neurocomputing'
 citation: ' Y. Xu,  C. Yang,  J. Zhong,  H. Ma,  L. Zhao, &quot;Robot Teaching by Teleoperation Based on Visual Interaction and Extreme Learning Machine (Accepted).&quot; Neurocomputing, 2017.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Robot+Teaching+by+Teleoperation+Based+on+Visual+Interaction+and+Extreme+Learning+Machine+(Accepted)){:target="_blank"} for full citation
+{:.small}

@@ -7,3 +7,4 @@ venue: 'In the proceedings of International Conference on Neural Information Pro
 citation: ' Libo Zhao,  Junpei Zhong, &quot;Recurrent Neural Network with Adaptive Gating Timescales Mechanisms for Language and Action Learning.&quot; In the proceedings of International Conference on Neural Information Processing, 2021.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Recurrent+Neural+Network+with+Adaptive+Gating+Timescales+Mechanisms+for+Language+and+Action+Learning){:target="_blank"} for full citation
+{:.small}

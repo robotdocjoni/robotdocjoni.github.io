@@ -7,3 +7,4 @@ venue: 'In the proceedings of 2018 IEEE Symposium Series on Computational Intell
 citation: ' Junpei Zhong,  Tetsuya Ogata,  Angelo Cangelosi, &quot;Encoding Longer-term Contextual Sensorimotor Information in a Predictive Coding Model.&quot; In the proceedings of 2018 IEEE Symposium Series on Computational Intelligence (SSCI), 2018.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Encoding+Longer+term+Contextual+Sensorimotor+Information+in+a+Predictive+Coding+Model){:target="_blank"} for full citation
+{:.small}

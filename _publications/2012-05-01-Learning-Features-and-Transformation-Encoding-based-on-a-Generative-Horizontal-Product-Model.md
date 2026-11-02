@@ -7,3 +7,4 @@ venue: 'In the proceedings of Proceedings of the Sixteenth International Confere
 citation: ' J. Zhong,  C. Weber,  S. Wermter, &quot;Learning Features and Transformation Encoding based on a Generative Horizontal Product Model.&quot; In the proceedings of Proceedings of the Sixteenth International Conference on Cognitive and Neural Systems (ICCNS 2012), 2012.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Learning+Features+and+Transformation+Encoding+based+on+a+Generative+Horizontal+Product+Model){:target="_blank"} for full citation
+{:.small}

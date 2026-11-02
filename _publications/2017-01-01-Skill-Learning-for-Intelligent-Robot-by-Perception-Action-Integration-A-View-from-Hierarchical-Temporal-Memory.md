@@ -7,3 +7,4 @@ venue: 'Complexity'
 citation: ' X. Zhang,  J. Zhang,  J. Zhong, &quot;Skill Learning for Intelligent Robot by Perception-Action Integration: A View from Hierarchical Temporal Memory.&quot; Complexity, 2017.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Skill+Learning+for+Intelligent+Robot+by+Perception+Action+Integration:+A+View+from+Hierarchical+Temporal+Memory){:target="_blank"} for full citation
+{:.small}
